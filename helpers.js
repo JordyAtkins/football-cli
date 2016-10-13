@@ -17,7 +17,7 @@ const moment = require('moment');
  * [API URL for all requests]
  * @type {String}
  */
-const API_URL = 'http://api.football-data.org/v1/';
+const API_URL = 'https://api.football-data.org/v1/';
 /**
  * [URL to report to for any issue related to project]
  * @type {String}
